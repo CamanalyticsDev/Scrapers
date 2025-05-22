@@ -1,0 +1,31 @@
+{
+  "name": "scrapers",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "start": "node dist/bkbobScraper.js",
+    "dev": "tsc && node dist/bkbobScraper.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CamanalyticsDev/Scrapers.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CamanalyticsDev/Scrapers/issues"
+  },
+  "homepage": "https://github.com/CamanalyticsDev/Scrapers#readme",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^20.10.5",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "puppeteer": "^21.11.0"
+  }
+}
