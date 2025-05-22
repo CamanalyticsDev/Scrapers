@@ -17,4 +17,5 @@ dist/
 *.swo
 
 # contenu du dossier src
-src/
+src/bkbobScraper.ts
+src/refundsDone.ts
