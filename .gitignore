@@ -15,7 +15,3 @@ dist/
 .idea/
 *.swp
 *.swo
-
-# contenu du dossier src
-src/bkbobScraper.ts
-src/refundsDone.ts
