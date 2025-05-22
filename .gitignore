@@ -15,3 +15,6 @@ dist/
 .idea/
 *.swp
 *.swo
+
+src/bkbobScraper.ts
+src/refundsDone.ts
